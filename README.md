@@ -1,2 +1,3 @@
 # modern-fullstack-project
 A complete full-stack PHP web application built with core PHP and MySQL, featuring secure authentication, role-based access control, CRUD operations, REST-style structure, form validation, session management, and responsive frontend UI. Designed using MVC principles and industry best practices for real-world internship and job-level development.
+.....
